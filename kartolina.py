@@ -6,9 +6,9 @@ urim_per_mesuesit={
     "Yllka":"Ju falenderojme per dijet qe na jepni ne biologji!",
     "Gladiola":"Ju falenderojme per dijet qe na jepni ne Anglisht!",
     "Egla":"Ju falenderojme per dijet qe na jepni ne Gjuhe Shqipe!",
-    "Andi":"Ju falenderojme per dijet qe na jepni ne Muzike!"
-    "Liza":"Ju falenderojme per dijet qe na jepni ne Matematike!"
-    "Sava":"Ju falenderojme per dijet qe na jepni ne Histori!"
+    "Andi":"Ju falenderojme per dijet qe na jepni ne Muzike!",
+    "Liza":"Ju falenderojme per dijet qe na jepni ne Matematike!",
+    "Sava":"Ju falenderojme per dijet qe na jepni ne Histori!",
 }
 
 emri=st.text_input("Vendosni emrin tuaj: ")
@@ -37,3 +37,4 @@ if st.button("Shfaq urimin! 💌"):
                 </div>
 
                 """, unsafe_allow_html=True)
+
