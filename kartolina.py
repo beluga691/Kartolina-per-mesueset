@@ -10,7 +10,8 @@ urim_per_mesuesit = {
     "Egla": "Ju falenderojme per dijet qe na jepni ne Gjuhe Shqipe!",
     "Andi": "Ju falenderojme per dijet qe na jepni ne Muzike!",
     "Liza": "Ju falenderojme per dijet qe na jepni ne Matematike!",
-    "Sava": "Ju falenderojme per dijet qe na jepni ne Histori!"
+    "Sava": "Ju falenderojme per dijet qe na jepni ne Histori!",
+    "Egla": "Ju falenderojme per dijet qe na jepni ne Gjuhe Shqipe!"
 }
 
 emri = st.text_input("Vendosni emrin e mesuesit:")
@@ -39,5 +40,6 @@ if st.button("Shfaq urimin! 💌"):
             <p>Shkolla 22 Tetori</p>
         </div>
         """, unsafe_allow_html=True)
+
 
 
